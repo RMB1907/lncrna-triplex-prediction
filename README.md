@@ -6,3 +6,5 @@ With 5-fold cross-validation, it achieved 90.11% accuracy, 85.71% sensitivity, 9
 # Model Architecture
 ![End-End Framework for Triplex-Forming Potential Prediction in lncRNAs](img/arch.png)
 
+# Results
+(img/results.png)
